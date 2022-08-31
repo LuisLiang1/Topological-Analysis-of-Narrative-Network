@@ -8,7 +8,7 @@ Ensure that nltk, en_core_web_sm, SpaCy are installed when using this extractor.
 
 ## 2.Import functions from code
 Add the following code to a new project.<br>
-from SVO_Extractor import extract_triple_list<br>
+<font color="green"> from</font> SVO_Extractor <font color="green"> import</font> extract_triple_list<br>
 
 
 
