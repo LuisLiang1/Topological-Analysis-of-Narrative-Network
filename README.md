@@ -11,4 +11,8 @@ Add the following code to a new project.<br><br>
 <i>from SVO_Extractor import</font> extract_triple_list</i><br>
 
 
-
+## 3.Explaination of the function 
+The input is the path of the text file. You need to ensure that the format of the file is txt and the language must be English. <br><br>
+The output is the SVO triples extracted from the file and stored in the list.<br><br>
+For example:<br><br>
+<i>final_triples=extract_triple_list("/Users/Desktop/NLP/target_file.txt")</i><br>
